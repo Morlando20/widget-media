@@ -1,9 +1,0 @@
-{
-  "name": "morldesigns-widget-media",
-  "version": "1.0.0",
-  "description": "Animation clips used by MorlDesigns StreamElements widgets, served through jsDelivr as a backup host.",
-  "keywords": ["streamelements", "widget", "overlay", "obs"],
-  "author": "MorlDesigns",
-  "license": "SEE LICENSE IN LICENSE.txt",
-  "files": ["wowcam/", "README.md", "LICENSE.txt"]
-}
